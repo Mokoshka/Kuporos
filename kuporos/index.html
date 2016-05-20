@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>PhotoQuest</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+    <link rel="stylesheet" href="../css/reveal.css">
+    <link rel="stylesheet" href="../css/theme/yandex.css" id="theme">
+    <link rel="stylesheet" href="../lib/css/zenburn.css">
+    <link rel="stylesheet" href="./css/user.css">
+</head>
+<body class="yandex"><div class="reveal"><div class="slides">
+
+    <section class="large">
+        <h2>PhotoQuest</h2>
+        <p class="author">
+            <small>Миникупоросы</small>
+        </p>
+    </section>
+
+    <!--=================================ТЕХНОЛОГИИ=================================================-->
+    <section>
+        <section>
+            <h2>Технологии</h2>
+        </section>
+
+        <section class="little">
+            <p class="fragment">Git + Travis-Ci</p>
+            <p class="fragment">Express</p>
+            <p class="fragment">MongoDB + Mongoose</p>
+            <p class="fragment">Handlebars</p>
+            <p class="fragment">Passport + Auth0</p>
+            <p class="fragment">JSCS + StyleLint</p>
+            <p class="fragment">Cloudinary</p>
+            <p class="fragment">GeoLib + Яндекс.Карты</p>
+            <p class="fragment">Faker</p>
+            <p class="fragment"> jQuery + Bootstrap</p>
+        </section>
+    </section>
+
+    <!--===========================================ДЕМОНСТРАЦИЯ================================================-->
+    <section class="large">
+        <h2>Демонстрация</h2>
+
+        <a href="https://yahackteam2.herokuapp.com/" target="_blank">DEMO</a>
+    </section>
+
+    <!--==============================================ТРУДНОСТИ=======================================================-->
+    <section>
+        <section class="bg" data-transition="none" data-background="./images/slozhna.jpg">
+
+        </section>
+
+        <section>
+            <h2>Трудности</h2>
+        </section>
+
+        <section>
+            <p>Выход из Auth0 (разлогировние на сайте)</p>
+            <p class="fragment">Возврат на текущую страницу после логина</p>
+            <p class="fragment">Асинхронное подключение блоков в hbs</p>
+            <p class="fragment">Проектирование Базы Данных</p>
+            <p class="fragment">Плагин для свайпа</p>
+            <p class="fragment">Геолокация в Chrome только при безопасном соединении</p>
+        </section>
+    </section>
+
+    <!--=============================================ЧТО НЕ УСПЕЛИ========================================================-->
+    <section>
+        <section class="bg" data-background="./images/neuspeli.jpg">
+
+        </section>
+
+        <section>
+            <h2>Что не успели</h2>
+        </section>
+
+        <section>
+            <p>Топ авторов</p>
+            <p class="fragment">Совместное редактирование квестов</p>
+            <p class="fragment">Переставлять местами этапы</p>
+            <p class="fragment">Теги квестов и поиск по тегам</p>
+            <p class="fragment">Статус пользователя + ачивки</p>
+        </section>
+    </section>
+
+    <section class="large">
+        <h2>Team 2</h2>
+        <ul class="team">
+            <li class="fragment" data-fragment-index="0">Катя Латыпова</li>
+            <li class="fragment" data-fragment-index="0">Наташа Аксёнова</li>
+            <li class="fragment" data-fragment-index="0">Никита Пестов</li>
+            <li class="fragment" data-fragment-index="0">Вася Кузнецов</li>
+            <li class="fragment" data-fragment-index="0">Луис Лопес</li>
+            <li class="fragment" data-fragment-index="0">Катя Рыбалка</li>
+            <li class="fragment" data-fragment-index="0">Владимир Сорокин</li>
+            <li class="fragment" data-fragment-index="1"><pre></pre></li>
+            <li class="fragment" data-fragment-index="1">Олег Олегыч</li>
+            <li class="fragment" data-fragment-index="1">Сергей Юрич</li>
+            <li class="fragment" data-fragment-index="1">и Максим</li>
+        </ul>
+    </section>
+
+    <section data-transition="none" data-background="./images/fire.jpg">
+    </section>
+
+    <section>
+        <p>
+            Вопросы?
+        </p>
+    </section>
+
+    <section>
+        <h2>Домашечка</h2><br>
+        <p class="fragment deadline">Дедлайн <br>29.05.2016 <br>02:59:59 </p>
+    </section>
+</div></div>
+
+<script src="../lib/js/head.min.js"></script>
+<script src="../js/reveal.js"></script>
+
+<script src="js/vendors/jquery.min.js"></script>
+<script src="js/vendors/attrchange.js"></script>
+<script src="js/main.js"></script>
+<script>
+    Reveal.initialize({
+        controls: false,
+        progress: true,
+        slideNumber: true,
+        history: true,
+        center: true,
+        hideAddressBar: true,
+        transition: 'slide',
+        dependencies: [
+            {
+                src: '../plugin/highlight/highlight.js',
+                async: true,
+                condition: function () {
+                    return Boolean(document.querySelector('pre code'));
+                },
+                callback: function () {
+                    hljs.initHighlightingOnLoad();
+                }
+            }
+        ]
+    });
+</script>
+</body>
+</html>

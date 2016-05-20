@@ -1,0 +1,42 @@
+.author {
+    text-align: center;
+}
+
+.author small::first-letter {
+    color: red;
+}
+
+
+
+.team {
+    font-size: 35px !important;
+    text-align: center;
+}
+
+.team li {
+    /*text-align: center;*/
+    list-style-type: none;
+}
+
+.little p {
+    margin: 1px auto;
+}
+
+.reveal .slide-background.bg
+{
+    background-size: contain;
+}
+
+.deadline {
+    color: white;
+    transform: scale(.8);
+    pointer-events: none;
+    transition-property: color, transform !important;
+    transition-duration: 12s !important;
+    transition-timing-function: linear !important;
+}
+
+.deadline.visible {
+    color: #ab3933;
+    transform: scale(2);
+}

@@ -1,2 +1,2 @@
 # Kuporos
-Presentation
+Презентация для защиты проекта
