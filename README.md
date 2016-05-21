@@ -1,2 +1,2 @@
 # Kuporos
-Презентация для защиты проекта
+[РџСЂРµР·РµРЅС‚Р°С†РёСЏ](https://cdn.rawgit.com/Mokoshka/Kuporos/master/kuporos/index.html#/) РґР»СЏ Р·Р°С‰РёС‚С‹ РїСЂРѕРµРєС‚Р°
