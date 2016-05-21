@@ -1,0 +1,31 @@
+<svg width="940" height="730" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="732" width="942" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="662" x2="107.488456" y1="662" x1="772.500001" stroke-width="1.5" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="661.303284" x2="107.5" y1="94.000014" x1="107.5" stroke-width="1.5" fill="none"/>
+  <path id="svg_3" d="m91.022503,92.913102l16.499995,-28.874977l16.499995,28.874977l-32.999989,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <path transform="rotate(90 787.5225219726562,662.4755859375001) " id="svg_4" d="m771.0225,676.9131l16.5,-28.87498l16.49999,28.87498l-32.99999,0z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_6" y="47.5" x="26" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Количество кода</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="673.5" x="821" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Время</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="692.5" x="36.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">1ый хакатон</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="689.5" x="260.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000"/>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_11" y="692.5" x="223.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">2ой хакатон</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_12" y="692.5" x="403.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">3ий хакатон</text>
+  <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_13" y="692.5" x="583.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">2 дня до сдачи</text>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_14" y2="672.524984" x2="292.5" y1="652.5" x1="292.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_16" y2="672.524984" x2="471.5" y1="652.5" x1="471.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_17" y2="672.524984" x2="666.5" y1="652.5" x1="666.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <path id="svg_19" d="m108.5,670.5" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <path id="svg_20" d="m107.5,661.5" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <path id="svg_21" d="m107.5,662.5" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <path id="svg_23" d="m108.5,662.5c47,-14 141,-22 187,-26c46,-4 149,-8 177,-13c28,-5 69,5 100,-17c31,-22 49,-61 65,-98c16,-37 38,-173 47,-215c9,-42 28,-212 27.5,-212.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+ </g>
+</svg>
